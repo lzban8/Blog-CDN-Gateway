@@ -1,9 +1,9 @@
 let urls = [
     'https://edgeone.blog.feigood.com#EdgeOne CDN',
     'https://vercel.blog.feigood.com#Vercel CDN',
-    'https://netlify.blog.feigood.com#Netlify CDN'
-    'https://cloudflare.blog.feigood.com#Cloudflare CDN'
-    'https://lzban8.github.io# Github CDN'
+    'https://netlify.blog.feigood.com#Netlify CDN',
+    'https://cloudflare.blog.feigood.com#Cloudflare CDN',
+    'https://lzban8.github.io#Github CDN'
 ];
 
 /**
